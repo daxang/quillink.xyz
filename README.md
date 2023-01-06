@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+quillink.xyz is a web3 platform for all story tellers
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+built on orbis and ceramic
 
-## Available Scripts
+below are the core info of quillink( and you can also read it here:https://www.quillink.xyz/Information/kjzl6cwe1jw148ysk5gtav8w3x2229kvsxdws0qzuk2s1i24q8h4pl49xxfzczf)
 
-In the project directory, you can run:
+Quillink is built for story creators and their fans!
+core members of quillink ourselves are both story creators and fans. at first, we try to find a web3 story-publish platform to share our stories and derivatives, but we find none.
 
-### `npm start`
+so, we thought, why not build one by ourselves;
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+months later, alpha comes out with great helps from great guys.GREAT THANKSTO @Baptiste @Oribs @Ceramic;
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+and it is a total web3 Dapp.
+all data (all data, every chapters of stories, users infos, comments,likes........) stored in ceramic;
 
-### `npm test`
+only data creators can edit/delete the data;
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+data belongs to its creators, not Quillink;
 
-### `npm run build`
+what can we do in Quillink now?
+writers:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+create your stories,novels,in quillink, we name all the stories worlds;
+set up token-gate on your chapters
+only erc 721 nft supported, sorry for that;
+readers:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+read stories, support writers;
+share your words in community, be our co-builders of quillink;
+what will Quillink work hard on in the future ?
+better ui &ux, and we are working on it;
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+nft mint &store:
 
-### `npm run eject`
+for writers:
+launch their own nfts. easily , seamless and very very low cost;
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+the nfts can be used as tools of paywall;
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+support more public blockchain, more contracts;
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+reward their fans with nfts;
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+for readers:
+mint nfts to read stories;
 
-## Learn More
+get certain shares of copyright of the stories;
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+active readers can get our official reward: governing nft called quill&ink
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+co-writing stories, co-creating worlds. yes, we love that sooooo much, and that is really what we web3ers should do!
 
-### Code Splitting
+more writers, more stories! fast-growing community!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+every of you are most welcomed to be our co-builders, because we are nerds and fools who desperately need your wisdom;
+official stories and nfts
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+all stories will be freely read;
+but nfts only be gotton freely by our co-builders
